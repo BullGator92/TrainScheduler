@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(161, 158, 156);
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.jumbotron {
+    background-color: green;
+    color: white;
+}
+
+#header-one {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.panel {
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
